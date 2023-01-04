@@ -1,4 +1,4 @@
-# EDA-For-Hotel-Revenue-Data-via-Python
+# EDA-For-Multivariate data-For-Hotel-Revenue-Data-via-Python
 Exploratory DATA Analyzation (EDA) For Hotel-Revenue Record is performed via Python
 The type of multivariate experimented Data was open and structured.  
 Multivariate nongraphical: Multivariate data arises from more than one variable. Multivariate non-graphical EDA techniques generally show the relationship between two or more variables of the data through cross-tabulation or statistics.
